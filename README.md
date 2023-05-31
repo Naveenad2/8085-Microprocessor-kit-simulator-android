@@ -1,4 +1,7 @@
+
 # 8085 Microprocessor Kit Simulator
+
+<img width="291" alt="Screenshot 2023-05-31 145007" src="https://github.com/Naveenad2/8085-Microprocessor-kit-simulator-android/assets/125131354/d2660373-574f-419e-bf2c-e884881d0344"> 
 
 This project is an Android simulator for the 8085 microprocessor kit commonly used in colleges and universities. It provides a realistic interface resembling the actual kit and offers features such as executing assembly language code, inspecting memory, and inserting values into memory. The simulator is developed using Kotlin and XML, ensuring a smooth and user-friendly experience.
 
@@ -64,5 +67,5 @@ We would like to thank all the contributors who have helped develop and improve 
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding the simulator, please feel free to contact us at [
+If you have any questions, suggestions, or feedback regarding the simulator, please feel free to contact us at naveenad260@gmial.com
 
